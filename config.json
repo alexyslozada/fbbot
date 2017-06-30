@@ -1,0 +1,8 @@
+{
+  "port": ":8181",
+  "cert_pem": "/etc/letsencrypt/archive/app.golang-es.com/fullchain1.pem",
+  "priv_pem": "/etc/letsencrypt/archive/app.golang-es.com/privkey1.pem",
+  "my_token": "5a9e6f13f3219e05c05b518ce45a4ddc5044761cb63f50e6595c4acd1199be30",
+  "fb_token": "EAAcllSCvrZAsBAKseHSD0fqwChNEkwDQTqz8vOJ4YlzHmxsReCd1SvSyA7qmskVU7MMXVY2ixXsq89tZBBny5ZBOpkkncFnWN5aOWQb70VThVWPjFUKkZCfQoLDpZAHvJGq1PuF7e2DMsSaaCmHZCs4ccW7vVWPZAvVDsL9urLXJwZDZD",
+  "fb_url": "https://graph.facebook.com/v2.6/me/messages"
+}
